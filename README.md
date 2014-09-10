@@ -9,6 +9,9 @@ Sudoku app built with the following technologies:
 * Browserify ( node style 'require' statements for module loading )
 * Mocha/Chai ( testing )
 
+## Play the game
+A deployed version can be found [here](http://addisonedwardlee.github.io/uberdoku-deploy)
+
 ## Run it locally
 1. Fork the repo and clone it
 1. Run `grunt serve` to start a server
